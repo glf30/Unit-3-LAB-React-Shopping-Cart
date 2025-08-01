@@ -9,7 +9,7 @@ Your task is to build a mini e-commerce app with two pages:
 
 ## Goals
 
-- Display the 30 given products using reusable components
+- Make an API call to "https://api.escuelajs.co/api/v1/products" in order to get a list of products.  
 - Allow users to add products to a cart and view them on a separate page
 - Track quantity if a product is added more than once
 - Show the total cost of items in the cart
