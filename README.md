@@ -9,7 +9,7 @@ Your task is to build a mini e-commerce app with two pages:
 
 ## Goals
 
-- Display at least 30 products using reusable components
+- Display the 30 given products using reusable components
 - Allow users to add products to a cart and view them on a separate page
 - Track quantity if a product is added more than once
 - Show the total cost of items in the cart
