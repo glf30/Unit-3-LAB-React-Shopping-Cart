@@ -33,3 +33,4 @@ Good luck!
 - Allow logged-in users to add new products through a form
 - Use context to manage cart state
 - Display a cart item count in the header
+- Redo the cart with Context and Redux (potentially create a serparate app for each!)
