@@ -34,3 +34,4 @@ Good luck!
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
 - Look into having Stripe integration!
+- Look into advanced styling (Tailwind)
