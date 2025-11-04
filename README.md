@@ -33,3 +33,4 @@ Good luck!
 - Use context to manage cart state
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
+- Look into having Stripe integration!
