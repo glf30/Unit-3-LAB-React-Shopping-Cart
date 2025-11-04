@@ -18,8 +18,6 @@ Your task is to build a mini e-commerce app with two pages:
 
 ## Starter
 
-A file with 30 fake products is provided, add it to your src folder.
-
 You're free to organize your files however you like, but you’ll likely want:
 - Reusable components (e.g. `ProductCard`, `CartItem`)
 - Pages for Home and Cart
