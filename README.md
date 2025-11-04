@@ -29,6 +29,7 @@ Good luck!
 
 - Add a simple login form (no real authentication needed)
 - Allow logged-in users to add new products through a form
+- Use bootstrap icons vie react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
 - Use context to manage cart state
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
