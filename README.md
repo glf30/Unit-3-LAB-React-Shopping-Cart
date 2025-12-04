@@ -27,7 +27,7 @@ Good luck!
 
 ## Stretch Goals
 
-- Add a simple login form (no real authentication needed)
+- Add a simple login form using Auth0
 - Allow logged-in users to add new products through a form
 - Use bootstrap icons vie react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
 - Use context to manage cart state
