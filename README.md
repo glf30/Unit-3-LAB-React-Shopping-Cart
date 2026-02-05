@@ -21,7 +21,7 @@ Your task is to build a mini e-commerce app with two pages:
 You're free to organize your files however you like, but you’ll likely want:
 - Reusable components (e.g. `ProductCard`, `CartItem`)
 - Pages for Home and Cart
-- Shared state between pages (use `App.jsx` or context)
+- Shared state between pages (use `App.jsx` or Context or Redux)
 
 Good luck!
 
@@ -30,7 +30,7 @@ Good luck!
 - Add a simple login form using Auth0
 - Allow logged-in users to add new products through a form
 - Use bootstrap icons vie react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
-- Use context to manage cart state
+- Include an Order History page that shows all previous orders made
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
 - Look into having Stripe integration!
