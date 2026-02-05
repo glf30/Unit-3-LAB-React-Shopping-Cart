@@ -28,6 +28,8 @@ Good luck!
 ## Stretch Goals
 
 - Add a simple login form using Auth0
+- use wrapper components for reusable layouts and modals
+- Utilize Custom Hooks for repeated state logic
 - Allow logged-in users to add new products through a form
 - Use bootstrap icons vie react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
 - Include an Order History page that shows all previous orders made
