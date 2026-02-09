@@ -27,7 +27,7 @@ Good luck!
 
 ## Stretch Goals
 
-- Add a simple login form using Auth0
+- Add a simple login form using [Auth0](https://auth0.com/)
 - Use wrapper components for reusable layouts and modals
 - Utilize Custom Hooks for repeated state logic
 - Allow logged-in users to add new products through a form
