@@ -37,3 +37,4 @@ Good luck!
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
 - Look into having Stripe integration!
 - Look into advanced styling (Tailwind)
+- Implement Tanstack Query for API calls
