@@ -33,7 +33,7 @@ Good luck!
 - Use wrapper components for reusable layouts and modals
 - Utilize Custom Hooks for repeated state logic
 - Allow logged-in users to add new products through a form
-- Use bootstrap icons vie react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
+- Use bootstrap icons like react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
 - Include an Order History page that shows all previous orders made
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
