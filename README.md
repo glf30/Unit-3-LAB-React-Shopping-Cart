@@ -28,7 +28,7 @@ Good luck!
 ## Stretch Goals
 
 - Add a simple login form using [Auth0](https://auth0.com/)
-- Add individual pages for product items that includes more of that products information as well as customer reviews
+- Add individual pages for product items that includes more of that product's information as well as customer reviews
 - Add the ability to search, filter, and sort through products (may need to add more properties for products such as Category, Color, Size, etc.
 - Use wrapper components for reusable layouts and modals
 - Utilize Custom Hooks for repeated state logic
