@@ -29,7 +29,7 @@ Good luck!
 
 - Add a simple login form using [Auth0](https://auth0.com/)
 - Add individual pages for product items that includes more of that product's information as well as customer reviews
-- Add the ability to search, filter, and sort through products (may need to add more properties for products such as Category
+- Add the ability to search, filter by category (if using the given API, not all items have categories), and sort through products 
 - Use wrapper components for reusable layouts and modals
 - Utilize Custom Hooks for repeated state logic
 - Allow logged-in users to add new products through a form
