@@ -32,7 +32,7 @@ Good luck!
 - Add the ability to search, filter by category (if using the given API, not all items have categories), filter by price (or anything else you can think of to filter by),  and sort through products 
 - Use wrapper components for reusable layouts and modals
 - Utilize Custom Hooks for repeated state logic
-- Allow logged-in users to add new products through a form
+- Only allow products to be added if the user is logged in
 - Use bootstrap icons like react-bootstrap-icons (or any other library with icons) [(react-bootstrap-icons)](https://github.com/ismamz/react-bootstrap-icons)
 - Include an Order History page that shows all previous orders made
 - Display a cart item count in the header
