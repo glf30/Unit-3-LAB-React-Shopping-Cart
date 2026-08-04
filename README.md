@@ -37,5 +37,5 @@ Good luck!
 - Include an Order History page that shows all previous orders made
 - Display a cart item count in the header
 - Redo the cart with Context and Redux (potentially create a serparate app for each!)
-- Look into having Stripe integration!
-- Look into advanced styling (Tailwind)
+- Look into having Stripe integration (or any 3rd party service that will simulate an actual payment)
+- Look into advanced styling (Tailwind or any other CSS library)
