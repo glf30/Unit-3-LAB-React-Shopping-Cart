@@ -16,12 +16,12 @@ Your task is to build a mini e-commerce app with two pages:
 - Alert the total when the user clicks “Checkout”
 - Navigate between pages using React Router
 
-## Starter
+## Setup
 
 You're free to organize your files however you like, but you’ll likely want:
 - Reusable components (e.g. `ProductCard`, `CartItem`)
 - Pages for Home and Cart
-- Shared state between pages (use `App.jsx` or Context or Redux)
+- Shared state between pages (use `App.jsx` to lift state or Context or Redux)
 
 Good luck!
 
